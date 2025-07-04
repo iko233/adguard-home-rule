@@ -11,6 +11,6 @@
 ||apijs.ksapisrv.com^
 ||yximgs.com^
 ||kwimgs.com^
-||sns-video-ak.xhscdn.com^|ruser_regular
+||sns-video-ak.xhscdn.com^
 ||amemv.com^
 ||snssdk.com^
