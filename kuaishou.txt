@@ -21,3 +21,4 @@
 ||eckwai.com^
 ||yyzqta.com^
 ||beckwai.com^
+||z1cdn.com^
