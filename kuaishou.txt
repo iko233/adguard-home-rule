@@ -1,22 +1,22 @@
-||kuaishou.com^|redmi
-||ksapisrv.com^|redmi
-||kuaishoupay.com^|redmi
-||api.e.kuaishou.com^|redmi
-||open.kuaishou.com^|redmi
-||sentry.kuaishou.com^|redmi
-||live.kuaishou.com^|redmi
-||app.kuaishou.com^|redmi
-||international.kuaishou.com^|redmi
+||kuaishou.com^|user_regular
+||ksapisrv.com^|user_regular
+||kuaishoupay.com^|user_regular
+||api.e.kuaishou.com^|user_regular
+||open.kuaishou.com^|user_regular
+||sentry.kuaishou.com^|user_regular
+||live.kuaishou.com^|user_regular
+||app.kuaishou.com^|user_regular
+||international.kuaishou.com^|user_regular
 
 # 快手 SDK、API 与缓存域
-||api1.kuaishoupay.com^|redmi
-||apijs.ksapisrv.com^|redmi
+||api1.kuaishoupay.com^|user_regular
+||apijs.ksapisrv.com^|user_regular
 
 # 通用快手静态与资源域
-||yximgs.com^|redmi
-||kwimgs.com^|redmi
-||sns-video-ak.xhscdn.com^|redmi
+||yximgs.com^|user_regular
+||kwimgs.com^|user_regular
+||sns-video-ak.xhscdn.com^|ruser_regular
 
 # 其他常见与快手关联的域
-||amemv.com^|redmi
-||snssdk.com^|redmi
+||amemv.com^|user_regular
+||snssdk.com^|user_regular
