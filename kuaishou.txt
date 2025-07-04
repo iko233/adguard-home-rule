@@ -15,7 +15,7 @@
 ||amemv.com^
 ||snssdk.com^
 ||slink.ksapisrv.com^
-||dk4.ppos.com^
+||ppos.com^
 ||vmcxz.cn^
 ||inkuai.com^
 ||eckwai.com^
