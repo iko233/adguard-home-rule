@@ -22,3 +22,4 @@
 ||yyzqta.com^
 ||beckwai.com^
 ||z1cdn.com^
+||xxpkg.com^
