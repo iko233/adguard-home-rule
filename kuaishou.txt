@@ -25,3 +25,4 @@
 ||xxpkg.com^
 ||gifshow.com^
 ||kwaixiaodian.com^
+||wsukwai.com^
