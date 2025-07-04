@@ -16,3 +16,4 @@
 ||snssdk.com^
 ||slink.ksapisrv.com^
 ||dk4.ppos.com^
+||vmcxz.cn^
