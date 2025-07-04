@@ -1,22 +1,16 @@
-||kuaishou.com^|user_regular
-||ksapisrv.com^|user_regular
-||kuaishoupay.com^|user_regular
-||api.e.kuaishou.com^|user_regular
-||open.kuaishou.com^|user_regular
-||sentry.kuaishou.com^|user_regular
-||live.kuaishou.com^|user_regular
-||app.kuaishou.com^|user_regular
-||international.kuaishou.com^|user_regular
-
-# 快手 SDK、API 与缓存域
-||api1.kuaishoupay.com^|user_regular
-||apijs.ksapisrv.com^|user_regular
-
-# 通用快手静态与资源域
-||yximgs.com^|user_regular
-||kwimgs.com^|user_regular
+||kuaishou.com^
+||ksapisrv.com^
+||kuaishoupay.com^
+||api.e.kuaishou.com^
+||open.kuaishou.com^
+||sentry.kuaishou.com^
+||live.kuaishou.com^
+||app.kuaishou.com^
+||international.kuaishou.com^
+||api1.kuaishoupay.com^
+||apijs.ksapisrv.com^
+||yximgs.com^
+||kwimgs.com^
 ||sns-video-ak.xhscdn.com^|ruser_regular
-
-# 其他常见与快手关联的域
-||amemv.com^|user_regular
-||snssdk.com^|user_regular
+||amemv.com^
+||snssdk.com^
