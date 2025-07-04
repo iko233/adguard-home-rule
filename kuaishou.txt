@@ -20,3 +20,4 @@
 ||cdndns.kwd.inkuai.com^
 ||eckwai.com^
 ||yyzqta.com^
+||beckwai.com^
