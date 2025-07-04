@@ -14,3 +14,4 @@
 ||sns-video-ak.xhscdn.com^
 ||amemv.com^
 ||snssdk.com^
+||ksapisrv.com
