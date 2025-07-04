@@ -17,7 +17,7 @@
 ||slink.ksapisrv.com^
 ||dk4.ppos.com^
 ||vmcxz.cn^
-||cdndns.kwd.inkuai.com^
+||inkuai.com^
 ||eckwai.com^
 ||yyzqta.com^
 ||beckwai.com^
